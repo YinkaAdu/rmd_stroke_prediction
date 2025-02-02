@@ -2,7 +2,7 @@
 title: "Build and deploy a stroke prediction model using R"
 date: "02/02/2025"
 output: html_document
-author: "Olayinka Adu"
+Author: "Olayinka Adu"
 ---
 
 # About Data Analysis Report
